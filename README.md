@@ -14,7 +14,7 @@ This project implements a Medical Question-Answering system using Retrieval-Augm
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/vanshkhandelwa/medical_RAG_app.git]
 cd Medical-RAG-using-Meditron-7B-LLM
 ```
 
